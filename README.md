@@ -104,3 +104,4 @@ streamlit run src/app.py
 * **Project Name**: Industrial Predictive Maintenance System
 * **Context**: Technical Evaluation & Interactive Diagnostic Dashboard Implementation
 
+Live project:-https://ai-predictive-maintenance-system-6p3eioxr8ohympddvxvkmx.streamlit.app/ 
