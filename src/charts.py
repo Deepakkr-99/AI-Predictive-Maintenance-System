@@ -9,7 +9,8 @@ def apply_simple_layout(fig, height=300):
         paper_bgcolor="rgba(0,0,0,0)",
         plot_bgcolor="rgba(0,0,0,0)",
         font=dict(color="#111827", family="Inter", size=12), # Dark text label for light theme
-        margin=dict(t=40, b=20, l=10, r=10)
+        margin=dict(t=40, b=20, l=10, r=10),
+        uirevision="constant" # Keeps the zoom/pan/legend state intact during Streamlit reruns
     )
     # Light theme grid lines and axes borders
     fig.update_xaxes(
