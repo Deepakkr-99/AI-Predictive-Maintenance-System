@@ -121,7 +121,7 @@ div.stButton > button:hover {
 
 /* Sidebar override for light mode consistency */
 section[data-testid="stSidebar"] {
-    background-color: #e8f2f1 !important; /* Soft Teal/Mint background same as main */
+    background-color: #e8f2f1 !important;
     border-right: 1px solid rgba(15, 118, 110, 0.15);
 }
 
